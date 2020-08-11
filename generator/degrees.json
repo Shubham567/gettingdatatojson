@@ -1,0 +1,350 @@
+[
+    {
+      "industry": "ARCHITECTURE",
+      "degree": "B.ARCH"
+    },
+    {
+      "industry": "ARCHITECTURE",
+      "degree": "M.ARCH"
+    },
+    {
+      "industry": "ARCHITECTURE",
+      "degree": "M.PHIL/PH.D IN ARCHITECTURE"
+    },
+    {
+      "industry": "ARCHITECTURE",
+      "degree": "M.PLANNING"
+    },
+    {
+      "industry": "ARCHITECTURE",
+      "degree": "B.PLANNING"
+    },
+    {
+      "industry": "COMMERCE",
+      "degree": "B.COM"
+    },
+    {
+      "industry": "COMMERCE",
+      "degree": "M.COM"
+    },
+    {
+      "industry": "COMMERCE",
+      "degree": "M.PHIL/PH.D IN COMMERCE"
+    },
+    {
+      "industry": "DESIGN",
+      "degree": "B.DES"
+    },
+    {
+      "industry": "DESIGN",
+      "degree": "M.DES"
+    },
+    {
+      "industry": "DESIGN",
+      "degree": "M.PHIL/PH.D IN DESIGN"
+    },
+    {
+      "industry": "EDUCATION",
+      "degree": "B.ED"
+    },
+    {
+      "industry": "EDUCATION",
+      "degree": "M.ED"
+    },
+    {
+      "industry": "EDUCATION",
+      "degree": "M.PHIL/PH.D IN EDUCATION"
+    },
+    {
+      "industry": "EDUCATION",
+      "degree": "B.P.ED"
+    },
+    {
+      "industry": "EDUCATION",
+      "degree": "M.P.ED"
+    },
+    {
+      "industry": "PHARMACY",
+      "degree": "B.PHARM"
+    },
+    {
+      "industry": "PHARMACY",
+      "degree": "M.PHARM"
+    },
+    {
+      "industry": "PHARMACY",
+      "degree": "M.PHIL/PH.D IN PHARMACY"
+    },
+    {
+      "industry": "SCIENCES",
+      "degree": "B.SC"
+    },
+    {
+      "industry": "SCIENCES",
+      "degree": "M.SC"
+    },
+    {
+      "industry": "SCIENCES",
+      "degree": "M.PHIL/PH.D IN SCIENCE"
+    },
+    {
+      "industry": "SCIENCES",
+      "degree": "B.F.SC"
+    },
+    {
+      "industry": "SCIENCES",
+      "degree": "M.F.SC"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "BA"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "MA"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "M.PHIL/PH.D IN ARTS"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "BSW"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "BFA"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "MSW"
+    },
+    {
+      "industry": "ARTS",
+      "degree": "D.LITT"
+    },
+    {
+      "industry": "ANIMATION",
+      "degree": "BACHELOR OF ANIMATION"
+    },
+    {
+      "industry": "ANIMATION",
+      "degree": "MASTER OF ANIMATION"
+    },
+    {
+      "industry": "VOCATIONAL STUDIES",
+      "degree": "BACHELORS IN VOCATIONAL COURSES"
+    },
+    {
+      "industry": "VOCATIONAL STUDIES",
+      "degree": "MASTERS IN VOCATIONAL COURSES"
+    },
+    {
+      "industry": "AVIATION",
+      "degree": "BBA (AVIATION)"
+    },
+    {
+      "industry": "AVIATION",
+      "degree": "M.SC (AVIATION)"
+    },
+    {
+      "industry": "AVIATION",
+      "degree": "M.PHIL/PH.D IN ENGINEERING"
+    },
+    {
+      "industry": "COMPUTER APPLICATIONS",
+      "degree": "BCA"
+    },
+    {
+      "industry": "COMPUTER APPLICATIONS",
+      "degree": "MCA"
+    },
+    {
+      "industry": "COMPUTER APPLICATIONS",
+      "degree": "M.PHIL/PH.D IN COMPUTER APPLICATIONS"
+    },
+    {
+      "industry": "DENTISTRY",
+      "degree": "BDS"
+    },
+    {
+      "industry": "DENTISTRY",
+      "degree": "MDS"
+    },
+    {
+      "industry": "DENTISTRY",
+      "degree": "M.PHIL/PH.D IN DENTAL"
+    },
+    {
+      "industry": "ENGINEERING",
+      "degree": "BE/B.TECH"
+    },
+    {
+      "industry": "ENGINEERING",
+      "degree": "ME/M.TECH"
+    },
+    {
+      "industry": "ENGINEERING",
+      "degree": "M.PHIL/PH.D IN ENGINEERING"
+    },
+    {
+      "industry": "ENGINEERING",
+      "degree": "TRAINING PROGRAMS"
+    },
+    {
+      "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+      "degree": "BHM"
+    },
+    {
+      "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+      "degree": "MHM"
+    },
+    {
+      "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+      "degree": "M.PHIL/PH.D IN HOTEL MANAGEMENT"
+    },
+    {
+      "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+      "degree": "MBA/PGDM"
+    },
+    {
+      "industry": "MASS COMMUNICATION",
+      "degree": "BMM"
+    },
+    {
+      "industry": "MASS COMMUNICATION",
+      "degree": "MMC"
+    },
+    {
+      "industry": "MASS COMMUNICATION",
+      "degree": "M.PHIL/PH.D IN MASS COMMUNICATION"
+    },
+    {
+      "industry": "VETERINARY SCIENCES",
+      "degree": "BVSC"
+    },
+    {
+      "industry": "VETERINARY SCIENCES",
+      "degree": "MVSC"
+    },
+    {
+      "industry": "VETERINARY SCIENCES",
+      "degree": "PH.D IN VETERINARY SCIENCE"
+    },
+    {
+      "industry": "LAW",
+      "degree": "LLB"
+    },
+    {
+      "industry": "LAW",
+      "degree": "LLM"
+    },
+    {
+      "industry": "LAW",
+      "degree": "M.PHIL/PH.D IN LAW"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "MBA/PGDM"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "BBA/BBM"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "M.PHIL/PH.D IN MANAGEMENT"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "EXECUTIVE MBA"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "MMS"
+    },
+    {
+      "industry": "MANAGEMENT",
+      "degree": "MHA"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "MD"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "MBBS"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "B.SC (MEDICINE)"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "MS"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "BACHELOR OF PHYSIOTHERAPY(BPT)"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "M.PHIL/PH.D IN MEDICINE"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "M.SC (MEDICINE)"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "MASTER OF PHYSIOTHERAPY(MPT)"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "BAMS"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "M.CH"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "BHMS"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "MPH"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "DIPLOMATE NATIONAL BOARD [DNB]"
+    },
+    {
+      "industry": "MEDICAL",
+      "degree": "BUMS"
+    },
+    {
+      "industry": "NURSING",
+      "degree": "B.SC (NURSING)"
+    },
+    {
+      "industry": "NURSING",
+      "degree": "M.SC (NURSING)"
+    },
+    {
+      "industry": "NURSING",
+      "degree": "M.PHIL/PH.D IN PARAMEDICAL"
+    },
+    {
+      "industry": "AGRICULTURE",
+      "degree": "B.SC (AGRICULTURE)"
+    },
+    {
+      "industry": "AGRICULTURE",
+      "degree": "M.SC (AGRICULTURE)"
+    },
+    {
+      "industry": "AGRICULTURE",
+      "degree": "M.PHIL/PH.D IN AGRICULTURE"
+    }
+  ]

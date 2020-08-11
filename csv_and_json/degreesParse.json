@@ -1,0 +1,131 @@
+{
+    "ARCHITECTURE": [
+      "B.ARCH",
+      "M.ARCH",
+      "M.PHIL/PH.D IN ARCHITECTURE",
+      "M.PLANNING",
+      "B.PLANNING"
+    ],
+    "COMMERCE": [
+      "B.COM",
+      "M.COM",
+      "M.PHIL/PH.D IN COMMERCE"
+    ],
+    "DESIGN": [
+      "B.DES",
+      "M.DES",
+      "M.PHIL/PH.D IN DESIGN"
+    ],
+    "EDUCATION": [
+      "B.ED",
+      "M.ED",
+      "M.PHIL/PH.D IN EDUCATION",
+      "B.P.ED",
+      "M.P.ED"
+    ],
+    "PHARMACY": [
+      "B.PHARM",
+      "M.PHARM",
+      "M.PHIL/PH.D IN PHARMACY"
+    ],
+    "SCIENCES": [
+      "B.SC",
+      "M.SC",
+      "M.PHIL/PH.D IN SCIENCE",
+      "B.F.SC",
+      "M.F.SC"
+    ],
+    "ARTS": [
+      "BA",
+      "MA",
+      "M.PHIL/PH.D IN ARTS",
+      "BSW",
+      "BFA",
+      "MSW",
+      "D.LITT"
+    ],
+    "ANIMATION": [
+      "BACHELOR OF ANIMATION",
+      "MASTER OF ANIMATION"
+    ],
+    "VOCATIONAL STUDIES": [
+      "BACHELORS IN VOCATIONAL COURSES",
+      "MASTERS IN VOCATIONAL COURSES"
+    ],
+    "AVIATION": [
+      "BBA (AVIATION)",
+      "M.SC (AVIATION)",
+      "M.PHIL/PH.D IN ENGINEERING"
+    ],
+    "COMPUTER APPLICATIONS": [
+      "BCA",
+      "MCA",
+      "M.PHIL/PH.D IN COMPUTER APPLICATIONS"
+    ],
+    "DENTISTRY": [
+      "BDS",
+      "MDS",
+      "M.PHIL/PH.D IN DENTAL"
+    ],
+    "ENGINEERING": [
+      "BE/B.TECH",
+      "ME/M.TECH",
+      "M.PHIL/PH.D IN ENGINEERING",
+      "TRAINING PROGRAMS"
+    ],
+    "HOTEL & HOSPITALITY MANAGEMENT": [
+      "BHM",
+      "MHM",
+      "M.PHIL/PH.D IN HOTEL MANAGEMENT",
+      "MBA/PGDM"
+    ],
+    "MASS COMMUNICATION": [
+      "BMM",
+      "MMC",
+      "M.PHIL/PH.D IN MASS COMMUNICATION"
+    ],
+    "VETERINARY SCIENCES": [
+      "BVSC",
+      "MVSC",
+      "PH.D IN VETERINARY SCIENCE"
+    ],
+    "LAW": [
+      "LLB",
+      "LLM",
+      "M.PHIL/PH.D IN LAW"
+    ],
+    "MANAGEMENT": [
+      "MBA/PGDM",
+      "BBA/BBM",
+      "M.PHIL/PH.D IN MANAGEMENT",
+      "EXECUTIVE MBA",
+      "MMS",
+      "MHA"
+    ],
+    "MEDICAL": [
+      "MD",
+      "MBBS",
+      "B.SC (MEDICINE)",
+      "MS",
+      "BACHELOR OF PHYSIOTHERAPY(BPT)",
+      "M.PHIL/PH.D IN MEDICINE",
+      "M.SC (MEDICINE)",
+      "MASTER OF PHYSIOTHERAPY(MPT)",
+      "BAMS",
+      "M.CH",
+      "BHMS",
+      "MPH",
+      "DIPLOMATE NATIONAL BOARD [DNB]",
+      "BUMS"
+    ],
+    "NURSING": [
+      "B.SC (NURSING)",
+      "M.SC (NURSING)",
+      "M.PHIL/PH.D IN PARAMEDICAL"
+    ],
+    "AGRICULTURE": [
+      "B.SC (AGRICULTURE)",
+      "M.SC (AGRICULTURE)",
+      "M.PHIL/PH.D IN AGRICULTURE"
+    ]
+  }

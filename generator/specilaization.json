@@ -1,0 +1,3782 @@
+[
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "ARCHITECTURAL PLANNING"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "URBAN PLANNING"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "INTERIOR DESIGN"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "LANDSCAPE ARCHITECTURE"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "CONSTRUCTION PLANNING"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "ENVIRONMENTAL ARCHITECTURE"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "ARCHITECTURAL DESIGN"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "URBAN DESIGN"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "ARCHITECTURAL CONSERVATION"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "ARCHITECTURAL ENGINEERING"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "DIGITAL ARCHITECTURE"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "CONSTRUCTION TECHNOLOGY"
+  },
+  {
+    "industry": "ARCHITECTURE",
+    "specialization": "INDUSTRIAL ARCHITECTURE"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "ACCOUNTING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "COMPUTER APPLICATION STUDIES"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "FINANCE"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "BANKING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "TAXATION"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "OFFICE MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "STATISTICS"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "MARKETING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "ECONOMICS"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "BUSINESS MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "BUSINESS ADMINISTRATION"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "INTERNATIONAL BUSINESS"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "TOURISM MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "HUMAN RESOURCES MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "FOREIGN TRADE"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "SUPPLY CHAIN MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "CORPORATE ACCOUNTING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "STOCK BROKING COURSE"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "ENTREPRENEURSHIP"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "BUSINESS COMMUNICATION"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "INDUSTRIAL MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "BRAND MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "EDUCATION MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "OPERATIONAL RESEARCH"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "ACTUARIAL SCIENCE"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "CORPORATE LAW"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "ISLAMIC BANKING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "CONSUMER SERVICES"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "RURAL ACCOUNTING"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "EXPORT IMPORT MANAGEMENT"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "JEWELRY DESIGN"
+  },
+  {
+    "industry": "COMMERCE",
+    "specialization": "TEXTILE MANAGEMENT"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "FASHION DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "INTERIOR DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "TEXTILE DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "INDUSTRIAL DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "COMMUNICATION STUDIES"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "GRAPHIC DESIGNING"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "JEWELRY DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "GAME DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "AUTOMOBILE DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "TEXTILE MANAGEMENT"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "MODELLING"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "RETAIL DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "LEATHER DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "INFORMATION DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "SKILL DEVELOPMENT"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "COMPUTER APPLICATION STUDIES"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "UNIVERSAL DESIGN"
+  },
+  {
+    "industry": "DESIGN",
+    "specialization": "INDUSTRIAL SCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "TEACHER TRAINING"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "PHYSICAL EDUCATION"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "EDUCATION MANAGEMENT"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "ENGLISH"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "MATHEMATICS"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "HISTORY"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "BIOSCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "TAMIL"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "COMMERCE EDUCATION"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "COMPUTER SCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "ECONOMICS"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "SOCIAL SCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "SPECIAL EDUCATION"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "GEOGRAPHY"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "NATURAL SCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "HINDI"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "SANSKRIT"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "MALAYALAM"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "HOME SCIENCE"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "COMPUTER EDUCATION"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "EXTENSION EDUCATION"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "GAMES & SPORTS"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "ARABIC"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "ACCOUNTING"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "YOGA"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "EDUCATION TECHNOLOGY"
+  },
+  {
+    "industry": "EDUCATION",
+    "specialization": "VOCATIONAL STUDIES"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICS"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACOLOGY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL CHEMISTRY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL ANALYTICS"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "INDUSTRIAL PHARMACY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACOGNOSY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PRACTICE PHARMACY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL TECHNOLOGY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL MANAGEMENT"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL SCIENCE"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "AYURVED"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "DRUG RESEARCH"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "CLINICAL PHARMACY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACOVIGILANCE"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "VETERINARY PHARMACY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "MEDICINAL CHEMISTRY"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "BIOPHARMACEUTICS"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "NATURAL MEDICINAL PRODUCTS"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHARMACEUTICALS MERCHANDISING"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "PHYTOPHARMACEUTICALS"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "UNANI MEDICINE"
+  },
+  {
+    "industry": "PHARMACY",
+    "specialization": "CLINICAL PHARMACOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MATHEMATICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CHEMICAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PHYSICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMPUTER SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ZOOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BOTANY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "LIFE SCIENCES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MICROBIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "STATISTICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ELECTRONICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOCHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FOOD SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ENVIRONMENTAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GEOGRAPHICAL SCIENCES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "EARTH SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PSYCHOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ECONOMICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HOME SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "YOGA"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOMEDICAL SCIENCES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOINFORMATICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DIETETICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMPUTER APPLICATIONS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FORENSIC SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDICAL TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMMUNICATION STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NUTRITIONAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "OPTOMETRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANALYTICAL CHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HEALTH CARE MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANTHROPOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DATA SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GENETICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SOIL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CATERING SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMMUNITY MEDICINE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MOLECULAR BIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NANOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISHERIES SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FORESTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "APPLIED CHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PHARMACEUTICAL CHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TEXTILE SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MATERIAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PLANT BIOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TOURISM MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLINICAL RESEARCH"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOSCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PHYSICAL EDUCATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INDUSTRIAL CHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ENTOMOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HUMANITIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MARITIME SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMMUNITY SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "APPAREL TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GEOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CYBER SECURITY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SOCIAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANALYTICAL STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FOOD TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "AGRI"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NATUROPATHY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INSTRUMENTATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "AYURVED"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NATURAL RESOURCE MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ACTUARIAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FRUIT SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL GENETICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL NUTRITION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HUMAN DEVELOPMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SOFTWARE ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDICAL MICROBIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DISASTER MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FINANCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INDUSTRIAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TEXTILE MERCHANDISING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "AQUACULTURE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMPUTER APPLICATION STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COSMETOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ENERGY MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PUBLIC ADMINISTRATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDICAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "OPERATIONS MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INFORMATION SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "REHABILITATION STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SPORTS SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DEFENCE STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PHYSIOTHERAPY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SERICULTURE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "AERONAUTICAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HEALTH INFORMATICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INTERDISCIPLINARY COURSES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GAMES & SPORTS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PHARMACEUTICAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "RURAL STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MILITARY SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIODIVERSITY CONSERVATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PSYCHIATRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLINICAL BIOCHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ECOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "WATER RESOURCE MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISHERIES MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HERBAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "OCEANOGRAPHY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PROSTHETICS AND ORTHOTICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "RADIOTHERAPY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "EDUCATION MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOPHYSICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "EXTENSION EDUCATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NURSING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "RESEARCH MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "WILDLIFE SCIENCES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "AIR TRAVEL MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HARDWARE & NETWORKING TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INDUSTRIAL HEALTH"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ASTRONOMY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLINICAL PSYCHOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "JEWELRY DESIGN"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MARINE BIOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DRUG RESEARCH"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOMEDICAL ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOSTATISTICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "COMPUTATIONAL BIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GENOMICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PLANT SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SOCIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SUSTAINABLE DEVELOPMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FOOD MICROBIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NEUROSCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLIMATOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CRIMINOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DAIRY TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "EMBEDDED SYSTEMS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISH EXTENSION EDUCATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISH PROCESSING TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "METEOROLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MECHANICAL ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TEXTILE CHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MARKETING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDICAL GENETICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PETROLEUM SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "REGENERATIVE MEDICINE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SPECIAL EDUCATION"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "URBAN PLANNING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIO"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISH BIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISHERIES ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "LIVESTOCK MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MEDICAL BIOCHEMISTRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PETROLEUM TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SERVICE INDUSTRY MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TEXTILE MANUFACTURING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TISSUE ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "VOCATIONAL STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLINICAL MICROBIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ENTREPRENEURSHIP"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISH ECONOMICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HYDROLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "OPERATIONAL RESEARCH"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "POPULATION STUDIES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL HUSBANDRY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "APPLIED ECONOMICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BEHAVIOURAL SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "EDUCATION DELIVERY TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PRODUCTION ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SOCIAL WORK"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "SUGAR TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ALTERNATIVE MEDICINE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIOTEXTILES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CLINICAL TRIALS MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "CYBER LAW"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DOCUMENTATION COURSES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISH TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FISHERIES MICROBIOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "GREEN TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HISTORY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "HYDROGRAPHY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "IMPLANTOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PLANT TISSUE CULTURE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PRINTING TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "TRANSLATIONAL HEALTH SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "VLSI COURSES"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ANIMAL BREEDING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "APICULTURE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "BIORESOURCE MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "DOCUMENTATION SCIENCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "ENERGY ENGINEERING"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "FERMENTATION TECHNOLOGY"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "INSURANCE"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "MATERIALS MANAGEMENT"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "NATURE TOURISM"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "PLANT GENETICS"
+  },
+  {
+    "industry": "SCIENCES",
+    "specialization": "POWER DISTRIBUTION MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ENGLISH"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HISTORY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "POLITICAL SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HINDI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOCIAL SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SANSKRIT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GEOGRAPHY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PSYCHOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PHILOSOPHY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "EDUCATION MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOCIAL WORK"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "JOURNALISM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PUBLIC ADMINISTRATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LIBRARY SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MUSIC"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MATHEMATICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HUMANITIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "URDU"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FINE ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BENGALI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HOME SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TAMIL"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PHYSICAL EDUCATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "EDUCATIONAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MARATHI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "KANNADA"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ARABIC"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FRENCH"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PUNJABI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "STATISTICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TOURISM MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RELIGIOUS STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LANGUAGE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PERFORMING ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOCIOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "COMPUTER APPLICATION STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GERMAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ANTHROPOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DANCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "YOGA"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RURAL DEVELOPMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MALAYALAM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ASSAMESE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "STRATEGIC STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FASHION DESIGN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GUJARATI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TELUGU"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "VISUAL ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LINGUISTICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PERSIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PUBLIC RELATIONS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "WOMEN'S STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "INTERNATIONAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ACTING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CULTURAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ENVIRONMENTAL SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FILM MAKING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "COMPUTER SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LITERATURE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BUSINESS ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SPANISH"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ORIYA"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "APPLIED ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CRIMINOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ISLAM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DEVELOPMENT STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RUSSIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "JAPANESE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CHINESE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SPECIAL EDUCATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ARCHAEOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FILM PRODUCTION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "THEATRE ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HUMAN RESOURCES MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "JYOTISHA"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PHOTOGRAPHY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TRANSLATIONAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PALI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CULINARY ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HUMAN DEVELOPMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "APPLIED PSYCHOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HUMAN RIGHTS EDUCATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PORTUGUESE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "APPLIED ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FILM DIRECTION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DRAMATICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GAMES & SPORTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LIBERAL ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ASTROLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "COMMUNICATION STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "POPULATION STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOCIAL WELFARE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CHRISTIANITY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "JAINISM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RURAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SCRIPT WRITING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "VASTU SHASTRA"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SANTALI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "OFFICE MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HINDUISM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "NEPALI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ANIMATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "EXTENSION EDUCATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "INTERDISCIPLINARY COURSES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ITALIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOUND RECORDING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TEXTILE DESIGN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DISASTER MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SKILL DEVELOPMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CINEMATOGRAPHY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MAITHILI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "AUDIOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "NGO MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FINANCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PRINTING TECHNOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "INSURANCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MANIPURI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MEDIA MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "EVENT MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MANUSCRIPTOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RAJASTHANI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TEACHER TRAINING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "KONKANI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SINDHI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TIBETAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DEVELOPMENT ADMINISTRATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GEOGRAPHICAL SCIENCES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "INSTRUCTIONAL DESIGN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "KHASI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "OPERATIONS MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PRINTING ARTS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "RURAL ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "VOCATIONAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CORPORATE EDUCATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DEVELOPMENT MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MAGADHI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PALMISTRY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "AGRO SERVICES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ARCHIVAL SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DEVELOPMENTAL ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DIETETICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ENTREPRENEURSHIP"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "FOREIGN TRADE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "GEOLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "COMMUNITY STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "KASHMIRI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "NUMEROLOGY"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SIKHISM"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ACTUARIAL SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "AYURVED"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BHOJPURI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "EUROPEAN LANGUAGES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SIGN LANGUAGE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TEXTILE MANAGEMENT"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "ADMINISTRATIVE STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "COMMUNITY SCIENCE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CONSUMER SERVICES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DEVELOPMENT ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "LANGUAGE ENGINEERING"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "REHABILITATION STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SOCIAL ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SWAHILI"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BORO LANGUAGE"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BULGARIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "BUSINESS COMMUNICATION"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CROATIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "CZECH"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "DRAVIDIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HOME ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "HUNGARIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "MANAGERIAL STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "NGO STUDIES"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "PHONETICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "POLISH"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "QUANTITATIVE ECONOMICS"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SERBIAN"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "SLOVAK"
+  },
+  {
+    "industry": "ARTS",
+    "specialization": "TULU"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "ANIMATION AND MULTIMEDIA"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "VISUAL EFFECTS"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "GRAPHIC DESIGN"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "2D AND 3D ANIMATION"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "WEB DESIGN"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "GAMING"
+  },
+  {
+    "industry": "ANIMATION",
+    "specialization": "FILM MAKING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "VOCATIONAL STUDIES"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "FOOD TECHNOLOGY"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "CATERING MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "FASHION DESIGN"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "FILM MAKING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "PERSONAL CARE & BEAUTY"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "COMPUTER EDUCATION"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "ELECTRICAL"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "ENGLISH"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "PERSONALITY DEVELOPMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "TOURISM MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "SKILL DEVELOPMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "CORPORATE EDUCATION"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "VIDEOGRAPHY"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "MECHANICAL ENGINEERING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "ELECTRICAL & ELECTRONICS"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "HOSPITALITY MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "CULINARY ARTS"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "DISASTER MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "JEWELRY DESIGN"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "INDUSTRIAL ENGINEERING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "AUTOMOBILE ENGINEERING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "MOBILE PHONES TECHNOLOGY"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "EXPORT MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "HOUSE KEEPING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "EVENT MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "INDUSTRIAL MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "PLUMBING"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "GAMES & SPORTS"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "MULTIMEDIA COMMUNICATION"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "REAL ESTATE MANAGEMENT"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "AUDIOLOGY"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "SELF DEFENCE"
+  },
+  {
+    "industry": "VOCATIONAL STUDIES",
+    "specialization": "TEXTILE DESIGN"
+  },
+  {
+    "industry": "AVIATION",
+    "specialization": "AVIATION MANAGEMENT"
+  },
+  {
+    "industry": "AVIATION",
+    "specialization": "AIR TRAVEL MANAGEMENT"
+  },
+  {
+    "industry": "AVIATION",
+    "specialization": "PILOT TRAINING"
+  },
+  {
+    "industry": "AVIATION",
+    "specialization": "FLIGHT ATTENDANTS TRAINING"
+  },
+  {
+    "industry": "AVIATION",
+    "specialization": "AIR CARGO MANAGEMENT"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "COMPUTER PROGRAMMING"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "WEB DESIGNING"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "NETWORKING TECHNOLOGIES"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "CYBER SECURITY"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "DATA SCIENCE"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "SOFTWARE ENGINEERING"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "GRAPHIC DESIGNING"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "DIGITAL EDUCATION"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "WEB DEVELOPMENT"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "COMPUTER OPERATION"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "DESKTOP PUBLISHING"
+  },
+  {
+    "industry": "COMPUTER APPLICATIONS",
+    "specialization": "VISUAL BASIC APPLICATION"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORTHODONTICS"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "PERIODONTICS"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "PROSTHODONTICS"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORAL SURGERY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ENDODONTICS"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORAL PATHOLOGY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORAL RADIOLOGY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "PREVENTIVE DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "PUBLIC HEALTH DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "CONSERVATIVE DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "DENTAL MECHANICS"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "DENTAL TECHNOLOGY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "DENTAL HYGIENE"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "PEDIATRIC DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORAL IMPLANTOLOGY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "ORAL MEDICINE"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "COMMUNITY DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "AESTHETIC DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "CLINICAL DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "LASER DENTISTRY"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "DENTISTRY",
+    "specialization": "SURGERY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "COMPUTER SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MECHANICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ELECTRONICS & COMMUNICATION"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CIVIL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ELECTRICAL & ELECTRONICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ELECTRICAL"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ELECTRONICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "DESIGN ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "INDUSTRIAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "AUTOMOBILE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CHEMICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "BIOTECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ENVIRONMENTAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MANUFACTURING ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "AEROSPACE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "SOFTWARE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "AGRICULTURAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "BIOMEDICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "INSTRUMENTATION"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ENERGY ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MECHATRONICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "FOOD TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MATERIAL SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MINING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "FOOD SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ROBOTICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PETROCHEMICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "NANOTECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CONTROL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "NETWORK ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "BIOINFORMATICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "METALLURGICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CONSTRUCTION TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "TEXTILE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "OCEAN & MARINE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "POLYMER ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "GEOGRAPHICAL SCIENCES"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "FASHION TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PRINTING TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "WATER RESOURCE MANAGEMENT"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ENVIRONMENTAL SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "HARDWARE & NETWORKING TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PHARMACEUTICAL ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MICROWAVE ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PHYSICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CERAMIC TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "EARTH SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PHOTONICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PLASTIC TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "INFRASTRUCTURE MANAGEMENT"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "NUCLEAR ENGINEERING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "DAIRY TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "INDUSTRIAL SCIENCE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "LEATHER TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "URBAN PLANNING"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "CLIMATOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MULTIMEDIA COMMUNICATION"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "OPERATIONS MANAGEMENT"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "RUBBER TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "AQUACULTURE"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "HEALTH INFORMATICS"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "PETROCHEMICAL SCIENCES"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "SPACE TECHNOLOGY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "ANIMAL HUSBANDRY"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "AVIATION MANAGEMENT"
+  },
+  {
+    "industry": "ENGINEERING",
+    "specialization": "COSMETOLOGY"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "HOSPITALITY MANAGEMENT"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "CATERING TECHNOLOGY"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "CATERING MANAGEMENT"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "CULINARY ARTS"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "HOUSE KEEPING"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "CATERING SCIENCE"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "MARITIME CATERING"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "HOSPITAL MANAGEMENT"
+  },
+  {
+    "industry": "HOTEL & HOSPITALITY MANAGEMENT",
+    "specialization": "EVENT MANAGEMENT"
+  },
+  {
+    "industry": "MASS COMMUNICATION",
+    "specialization": "JOURNALISM"
+  },
+  {
+    "industry": "MASS COMMUNICATION",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "MASS COMMUNICATION",
+    "specialization": "MULTIMEDIA COMMUNICATION"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL HEALTH"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "LIVESTOCK MANAGEMENT"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL HUSBANDRY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL MICROBIOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL NUTRITION"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL GENETICS"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL PARASITOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL PATHOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL GYNAECOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL SURGERY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL PHARMACOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY PUBLIC HEALTH"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL BIOCHEMISTRY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL PHYSIOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL ANATOMY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL MEDICINE"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "EPIDEMIOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY GYNAECOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY ANATOMY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL IMMUNOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY EXTENSION EDUCATION"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY IMMUNOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY MEDICINE"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "WILDLIFE SCIENCES"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL BACTERIOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY PATHOLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL PREVENTIVE MEDICINE"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "ANIMAL VIROLOGY"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "BIOSTATISTICS"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY PREVENTIVE MEDICINE"
+  },
+  {
+    "industry": "VETERINARY SCIENCES",
+    "specialization": "VETERINARY MICROBIOLOGY"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "CORPORATE LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "HUMAN RIGHTS"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "INTELLECTUAL PROPERTY LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "CRIMINAL LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "CIVIL LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "CYBER LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "LABOR LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "INTERNATIONAL LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "ENVIRONMENTAL LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "BANKING LAW"
+  },
+  {
+    "industry": "LAW",
+    "specialization": "FINANCIAL LAW"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "MARKETING"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HUMAN RESOURCES MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FINANCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "OPERATIONS MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FOREIGN TRADE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "TOURISM MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "RETAIL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HEALTH CARE MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS ADMINISTRATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BANKING"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS ANALYTICS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CORPORATE EDUCATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ENTREPRENEURSHIP"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INTERNATIONAL BUSINESS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INSURANCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "AGRI"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "RURAL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "EVENT MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "MEDIA MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HOSPITAL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "OFFICE MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INDUSTRIAL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "AIR TRAVEL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "PHARMACEUTICAL MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CLINIC & HOSPITAL ADMINISTRATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INTERNATIONAL STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "MANAGERIAL STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ENVIRONMENTAL SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INFRASTRUCTURE MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "GAMES & SPORTS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FASHION DESIGN"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ANALYTICAL STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ENERGY MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ECONOMICS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "EDUCATION MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CULINARY ARTS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HOUSE KEEPING"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "PUBLIC RELATIONS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS ECONOMICS"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "COMPUTER SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INVESTMENT MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "COMPUTER EDUCATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CORPORATE LAW"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "SUPPLY CHAIN MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "STRATEGIC STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "AGRI MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "TEXTILE MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "NGO MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "DISASTER MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "TAXATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "COOPERATIVE MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS COMMUNICATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "TAXATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ELECTRONICS & COMMUNICATION"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "MATERIAL SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BIOTECHNOLOGY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INTERIOR DESIGN"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "URBAN PLANNING"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "DESIGN MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "SKILL DEVELOPMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FOOD SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "BUSINESS SUSTAINABILITY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "POWER DISTRIBUTION MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ENERGY AND ENVIRONMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HUMANITIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INDUSTRIAL ENGINEERING"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "MEDIA STUDIES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "ACTUARIAL SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CATERING MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FOOD TECHNOLOGY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CONSUMER SERVICES"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "DAIRY TECHNOLOGY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "FORESTRY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "PUBLIC WELFARE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "HUMAN RESOURCES MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "SOCIAL SCIENCE"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "EDUCATIONAL RESEARCH"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "WEALTH MANAGEMENT"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "CRIMINOLOGY"
+  },
+  {
+    "industry": "MANAGEMENT",
+    "specialization": "INTELLECTUAL PROPERTY LAW"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICAL LABORATORY TECHNOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHYSIOTHERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ANAESTHISIA"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MICROBIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "SURGERY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PATHOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PEDIATRICS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ORTHOPAEDICS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHYSIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "OBSTETRICS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HUMAN ANATOMY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "BIOCHEMISTRY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHARMACOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "E.N.T"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "COMMUNITY MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "RADIOGRAPHY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "DERMATOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "OPHTHALMOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PSYCHIATRY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "FORENSIC MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "YOGA"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "AYURVED"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "RADIOTHERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEUROLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "DIALYSIS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "CARDIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "RESPIRATORY CARE MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NURSING"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HOMEOPATHY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HEALTH INFORMATICS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "UROLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "CLINICAL PATHOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "RADIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "EMERGENCY MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "GASTROENTEROLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEPHROLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "AUDIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "OCCUPATIONAL THERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PULMONARY MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PREVENTIVE MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICAL TECHNOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "CLINICAL RESEARCH"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ONCOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "TUBERCULOSIS MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "OPTOMETRY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HOSPITAL ADMINISTRATION"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PSYCHOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ENDOCRINOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHYSICAL MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HAEMATOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "LARYNGOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "UNANI MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEONATOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "TRANSFUSION MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NUCLEAR MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "GERIATRIC"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "BIOTECHNOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "IMMUNOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEONATAL CARE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "GENERAL SURGERY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "EPIDEMIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "FAMILY MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "SPORTS MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ALTERNATIVE MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ACUPUNCTURE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICAL GENETICS"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MANUAL THERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHARMACEUTICAL MANAGEMENT"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "VENEROLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HEPATOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "LEPROSY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICAL ASSISTANT"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "TROPICAL MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "ICU MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "BIO"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HIV MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "MEDICAL TRANSCRIPTION"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "HEMATOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "SPECIAL EDUCATION"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "CYTOPATHOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "DEVELOPMENTAL THERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEUROPHYSIOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NURSING"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "PHYSICAL THERAPY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "REGENERATIVE MEDICINE"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "IMMUNOPATHOLOGY"
+  },
+  {
+    "industry": "MEDICAL",
+    "specialization": "NEUROVIROLOGY"
+  },
+  {
+    "industry": "NURSING",
+    "specialization": "NURSING"
+  },
+  {
+    "industry": "NURSING",
+    "specialization": "PEDIATRICS"
+  },
+  {
+    "industry": "NURSING",
+    "specialization": "OPTOMETRY"
+  },
+  {
+    "industry": "NURSING",
+    "specialization": "OBSTETRICS"
+  },
+  {
+    "industry": "NURSING",
+    "specialization": "ORTHOPAEDICS"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "GENERAL"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "HORTICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRONOMY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL GENETICS"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "PLANT PATHOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "FOOD SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "EXTENSION EDUCATION"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL ECONOMICS"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "FORESTRY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "VEGETABLE SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "SEED TECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL TECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "FLORICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "PLANT PHYSIOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRI MANAGEMENT"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "ANIMAL HUSBANDRY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "FISHERIES SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "GEOGRAPHICAL REMOTE SENSING"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "POULTRY SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "DAIRY SCIENCES"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL ENTOMOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "ORGANIC FARMING TECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "SERICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL STATISTICS"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRO"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "MICROBIOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "RURAL STUDIES"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "WILDLIFE SCIENCES"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL METEOROLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "ANIMAL BIOTECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "PLANT SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "ENTOMOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRI"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "LIVESTOCK MANAGEMENT"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "SOIL SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "WATER RESOURCE MANAGEMENT"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "SILVICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "BEE KEEPING"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL WATER MANAGEMENT"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "APPLIED AGRICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "MARINE BIOTECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "TEA PRODUCTION AND MANAGEMENT"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "ANIMAL PHYSIOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "BOTANY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "DAIRY TECHNOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL PHYSICS"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "AGRICULTURAL ZOOLOGY"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "PLANT BREEDING"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "FISHERIES SCIENCE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "MARICULTURE"
+  },
+  {
+    "industry": "AGRICULTURE",
+    "specialization": "MEAT PRODUCTION"
+  }
+]
